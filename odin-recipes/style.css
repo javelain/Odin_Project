@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(239, 239, 236);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro_image{
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    text-align: center;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+h3{
+    font-size: 20px;
+}
+
+ul{
+    list-style: none;
+}
+ol>li{
+    font-weight: bold;
+}
+
+ul li{
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
